@@ -1,0 +1,170 @@
+@charset "utf-8";
+/* CSS Document */
+.head{
+    text-align:left;
+    font-size:70px;
+    margin:auto;
+    padding:0;
+    overflow:hidden;
+    width:auto;
+    line-height: 200px;
+}
+
+
+.hrnav {
+    display:inline-block;
+    width:auto;
+}
+.nav{
+    list-style-type: none;
+    margin: auto;
+    padding: 0;
+    text-align: center;
+    overflow: hidden;
+    background-color: #002266;
+    width:auto;
+
+}
+.navitem {
+    float:center;
+    display:inline-block;
+
+}
+.navlink, .navitem {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+.navlink:hover, .navitem:hover {
+    background-color:#6699ff;
+}
+
+.homebox {
+    margin:auto;
+    display:block;
+    width:auto;
+    border-color:#002266;
+    border-style:solid;
+    padding-left:10px;
+    padding-right:10px;
+    padding-top:-10px;
+    background-image:url("paperish.jpg");
+    text-align:center;
+}
+.homeboxtitle {
+    background-color:#002266;
+    color:#ffffff;
+    height:70px;
+    margin-top:-24px;
+    line-height: 50px;
+    width:auto;
+}
+p {
+    font-size:25px;
+}
+a {
+    color:#ff1a8c;
+    font-size:25px;
+    text-decoration:none;
+    font-weight:bold;
+}
+a:hover {
+    color:#ffffff;
+}
+li {
+    font-size:25px;
+}
+body{
+    background-color:#f7e6ff;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.logo{
+    float:left;
+    width:auto;
+}
+.TGE {
+    height:200px;
+}
+.header {
+    text-align:center;
+    margin:auto;
+}
+.headerpic {
+    height:220px;
+    width:auto;
+}
+.video {
+    margin:auto;
+    text-align:center;
+}
+.orglist{
+}
+
+.headingpage {
+    text-align:center;
+}
+.orgdescription{
+
+}
+.organizationbox {
+    padding-left:30px;
+    padding-top:30px;
+    background-image:url("paperish.jpg");
+    border:solid;
+    border-color:#002266;
+}
+.countrylist{
+
+}
+.countrybox{
+    padding-left:30px;
+    padding-right:30px;
+    padding-top:30px;
+    background-image:url("paperish.jpg");
+    border:solid;
+    border-color:#002266;
+    margin:auto;
+}
+.countrydescription{
+
+}
+.specificorg{
+
+}
+.person {
+    display:block;
+    padding:30px;
+    background-image:url("paperish.jpg");
+    border:solid;
+    border-color:#002266;
+    margin:auto;
+    overflow:hidden;
+
+}
+.name{
+    text-shadow: 2px 2px #4d4d4d;";
+    text-align:center;
+
+}
+.namewimg {
+    display:inline-block;
+    width:600px;
+    text-align:center;
+
+
+}
+.bio{
+    border-style:solid;
+    display:inline-block;
+    float:right;
+    margin:auto;
+    padding:10px;
+    text-align:center;
+    width:600px;
+    height:500px;
+    border-color:#002266;
+
+}
+
